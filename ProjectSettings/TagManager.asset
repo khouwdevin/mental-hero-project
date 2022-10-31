@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dumbell
+  - Enemy
+  - NextLevel
+  - FillMental
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Level
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background5
+    uniqueID: 3953481439
+    locked: 0
+  - name: Background4
+    uniqueID: 2458929359
+    locked: 0
+  - name: Background3
+    uniqueID: 3839544267
+    locked: 0
+  - name: Background2
+    uniqueID: 2899163699
+    locked: 0
+  - name: Background1
+    uniqueID: 2370550595
+    locked: 0
+  - name: Back
+    uniqueID: 3619354669
+    locked: 0
+  - name: Props
+    uniqueID: 4169195871
+    locked: 0
+  - name: Player
+    uniqueID: 881828295
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

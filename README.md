@@ -1,1 +1,1 @@
-# mental-hero-project
+# Mental Hero
